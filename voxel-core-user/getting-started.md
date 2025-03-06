@@ -4,5 +4,5 @@ order: 1
 
 # Getting started
 ::: tip
-If you're looking for [Developer API](awgawgaw)
+If you're looking for Developer API
 :::
